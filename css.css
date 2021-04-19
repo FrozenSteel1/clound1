@@ -1,0 +1,17 @@
+section {
+    text-decoration: none;
+    font-size: 20px;
+    color: #d21414;
+    margin-left: 1150px;
+    border: 2px solid #3b59ec;
+    padding: 6px;
+}
+.nameSystemLink {
+    text-decoration: none;
+    font-size: 20px;
+    color: #d21414;
+    margin-left: 1150px;
+    background: #a7e585;
+    border: 2px solid #ff3c3c;
+    padding: 20px;
+}
